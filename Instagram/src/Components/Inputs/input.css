@@ -1,0 +1,9 @@
+.input-field{
+    width: 80%;
+    padding: 10px 2px;
+    margin: 2px 0px;
+    border: 1px solid #928c8c;
+    border-radius: 6px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}

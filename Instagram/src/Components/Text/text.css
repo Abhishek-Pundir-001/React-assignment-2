@@ -1,0 +1,10 @@
+.text{
+    font-size: small;
+    margin: 5px 0px;
+}
+.button{
+    font-size: medium;
+    color: #0f6fbe;
+    background: none;
+    border: none;
+}

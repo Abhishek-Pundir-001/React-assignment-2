@@ -1,0 +1,34 @@
+.card{
+    height: 40vh;
+    width: 20vw;
+    padding: 2rem;
+    border: none;
+    border-radius: 12px;
+    background-color: #e45081;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    padding: 8px 10px;
+    margin: 5px;
+    font-size: medium;
+    border: none;
+    border-radius: 10px;
+    background-color: brown;
+    color: aliceblue;
+
+}
+.count{
+    margin: 15px 0px;
+    font-size: xx-large;
+    color: white;
+}
+.card-wrapper{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
